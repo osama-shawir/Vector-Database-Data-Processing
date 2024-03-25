@@ -1,0 +1,1 @@
+C:\Users\osama\Desktop\Sem\ 2\DE\Vector-Database-Data-Processing\Vector-Database-Processing\target\debug\Vector-Database-Processing.exe: C:\Users\osama\Desktop\Sem\ 2\DE\Vector-Database-Data-Processing\Vector-Database-Processing\src\main.rs
